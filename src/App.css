@@ -1,0 +1,195 @@
+#body{
+  background-position: center;
+  background-size: cover;
+  height: 100%;
+  position: absolute;
+  left: 0;
+  width: 100%;
+  overflow: hidden;
+}
+#mainHeaderDiv{
+  background-image:linear-gradient(to right, transparent, rgb(4, 12, 78, 0.8), transparent);
+  margin-top: 75px;
+  width: 350px;
+  margin-left: auto;
+  margin-right: auto;
+}
+#mainHeader{
+  text-align: center;
+  font-size: 42pt;
+  color: rgb(214, 211, 211);
+}
+
+/* HomePage */
+#homeBtnDiv{
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 15%;
+  width: 160px;
+  height: 160px;
+  background-image:linear-gradient(to bottom right, rgb(114,21,21), rgb(0,248,248),rgb(133,15,15));
+  border-radius: 100px;
+  position: relative;
+}
+#homeBtn{
+  text-align: center;
+  width: 150px;
+  height: 150px;
+  border-radius: 100px;
+  font-size: 36pt;
+  background-color: transparent;
+  border: 1.5px solid black;
+  top:50%;
+  left:50%;
+  margin-right: -50%;
+  transform: translate(-50%,-50%);
+  position: absolute;
+}
+/* AddRooms */
+#addRoomsDiv{
+  margin-left: 57%;
+  margin-top: 40px;
+  width: 500px;
+  height: 400px;
+  border-top: 1px solid rgb(0,28,28);
+  border-right: 1px solid rgb(0,28,28);
+  box-shadow: -5px 7px 20px -5px rgb(214, 211, 211);
+  background-image: url(./Images/addRoomDiv.jpg);
+  position: relative;
+}
+#addRoomHeader{
+  text-align: center;
+  font-size: 32pt;
+  color: rgb(214, 211, 211);
+  margin-top: 20px;
+  font-size: 28pt;
+  text-decoration: underline;
+}
+#roomSelect{
+  margin-top: 20px;
+  width: 200px;
+  height: 40px;
+  font-size: large;
+  font-weight: 500;
+  left:50%;
+  margin-right: -50%;
+  transform: translate(-50%,0);
+  position: absolute;
+  box-shadow: 0px 10px 8px -5px rgb(214, 211, 211);
+}
+.input{
+  width: 200px;
+  height: 40px;
+  margin-top: 65px;
+  margin-bottom: 15px;
+  left:50%;
+  margin-right: -50%;
+  transform: translate(-50%,0);
+  position: absolute;
+  box-shadow: 0px 10px 8px -5px rgb(214, 211, 211);
+}
+#addRoomBtn{
+  width: 200px;
+  height: 40px;
+  margin-top: 115px;
+  left:50%;
+  margin-right: -50%;
+  transform: translate(-50%,0);
+  position: absolute;
+  font-size: large;
+  box-shadow: 0px 10px 8px -5px rgb(214, 211, 211);
+}
+/* .addRoomIcons{
+  max-width: 50px;
+  height: auto;
+} */
+
+/* ListOfRooms */
+#listOfRoomsDiv{
+  margin-left: 160px;
+  margin-bottom: 0;
+}
+.roomList{
+  display: inline-block;
+  width: 150px;
+  height: 150px;
+  border-left: 2px solid rgb(252, 251, 249);
+  border-bottom: 2px solid rgb(252, 251, 249);
+  border-top: 3px solid rgb(16, 27, 126);
+  border-right: 3px solid rgb(16, 27, 126);
+  font-size: 16pt;
+}
+#roomNameBg{
+  background-image: linear-gradient(to right, transparent, rgba(252, 251, 249, 0.5)30%, rgba(252, 251, 249, 0.5) 70%, transparent ) ;
+}
+
+/* Room */
+#roomBody{
+  position: absolute;
+  display: inline-block;
+}
+#roomInfo{
+  color: rgb(214, 211, 211);
+  font-size: 26pt;
+  margin-left: 250px;
+}
+#roomBtnsDiv{
+  margin-left: 250px;
+  margin-top: 40px;
+}
+.roomBtns{
+  margin-right: 10px;
+  background-color:	rgb(252, 251, 249);
+  box-shadow: 0px 0px 50px rgb(150, 184, 194);
+  border:0;
+  width: 150px;
+  height: 45px;
+  font-size: 16pt;
+}
+
+/* AddProduct */
+#emptyAddProdDiv{
+  height: 150px;
+}
+#addProdDiv{
+  height: 150px;
+  margin-left: 125px;
+  padding-top: 10px;
+}
+#prodSelect{
+  width: 200px;
+  height: 45px;
+  font-size: 16pt;
+  font-weight: 500;
+}
+#addProdBtn{
+  margin-left: 10px;
+  background-color:	rgb(252, 251, 249);
+  box-shadow: 0px 0px 50px rgb(150, 184, 194);
+  border:0;
+  width: 90px;
+  height: 45px;
+  font-size: 16pt;
+}
+
+/* Products */
+#prodDiv{
+  margin-left: 57%;
+  display: inline-block;
+  position: relative;
+}
+/* #listOfProd{
+  
+} */
+.products{
+  margin-right: 10px;
+  margin-bottom: 10px;
+  width: 130px;
+  height: 130px;
+  color: rgb(252, 251, 249);
+  font-size: 14pt;
+  border-left: 2px solid rgb(252, 251, 249);
+  border-bottom: 2px solid rgb(252, 251, 249);
+  border-top: 3px solid rgb(4, 12, 78);
+  border-right: 3px solid rgb(4, 12, 78);
+}
