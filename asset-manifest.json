@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/Smart-house/static/css/main.2fa017f0.chunk.css",
-    "main.js": "/Smart-house/static/js/main.2ad44a9e.chunk.js",
-    "main.js.map": "/Smart-house/static/js/main.2ad44a9e.chunk.js.map",
+    "main.js": "/Smart-house/static/js/main.d9c71747.chunk.js",
+    "main.js.map": "/Smart-house/static/js/main.d9c71747.chunk.js.map",
     "runtime-main.js": "/Smart-house/static/js/runtime-main.701da2c6.js",
     "runtime-main.js.map": "/Smart-house/static/js/runtime-main.701da2c6.js.map",
-    "static/js/2.9a7161e3.chunk.js": "/Smart-house/static/js/2.9a7161e3.chunk.js",
-    "static/js/2.9a7161e3.chunk.js.map": "/Smart-house/static/js/2.9a7161e3.chunk.js.map",
+    "static/js/2.b11eebbf.chunk.js": "/Smart-house/static/js/2.b11eebbf.chunk.js",
+    "static/js/2.b11eebbf.chunk.js.map": "/Smart-house/static/js/2.b11eebbf.chunk.js.map",
     "index.html": "/Smart-house/index.html",
-    "precache-manifest.d19da4cd1addda8f17bd5805c9f83872.js": "/Smart-house/precache-manifest.d19da4cd1addda8f17bd5805c9f83872.js",
+    "precache-manifest.b662306cf712e8bf1f2b35c1bdf83275.js": "/Smart-house/precache-manifest.b662306cf712e8bf1f2b35c1bdf83275.js",
     "service-worker.js": "/Smart-house/service-worker.js",
     "static/css/main.2fa017f0.chunk.css.map": "/Smart-house/static/css/main.2fa017f0.chunk.css.map",
-    "static/js/2.9a7161e3.chunk.js.LICENSE.txt": "/Smart-house/static/js/2.9a7161e3.chunk.js.LICENSE.txt",
+    "static/js/2.b11eebbf.chunk.js.LICENSE.txt": "/Smart-house/static/js/2.b11eebbf.chunk.js.LICENSE.txt",
     "static/media/SH_background.jpg": "/Smart-house/static/media/SH_background.92cb6c56.jpg",
     "static/media/Smart-Home-addRoom.jpg": "/Smart-house/static/media/Smart-Home-addRoom.bd47fdb5.jpg",
     "static/media/App.css": "/Smart-house/static/media/addRoomDiv.cf4210e9.jpg",
@@ -19,8 +19,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.701da2c6.js",
-    "static/js/2.9a7161e3.chunk.js",
+    "static/js/2.b11eebbf.chunk.js",
     "static/css/main.2fa017f0.chunk.css",
-    "static/js/main.2ad44a9e.chunk.js"
+    "static/js/main.d9c71747.chunk.js"
   ]
 }
