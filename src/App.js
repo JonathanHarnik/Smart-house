@@ -1,6 +1,5 @@
 import React, { Component } from 'react'
 import './App.css';
-
 import {BrowserRouter as Router,Switch, Route, Link} from 'react-router-dom';
 import HomePage from './Components/HomePage.js';
 import AddRooms from './Components/AddRooms.js';
