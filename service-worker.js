@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Smart-house/precache-manifest.a55adb7921fbd6727fe5510f26fcf5c8.js"
+  "/Smart-house/precache-manifest.d19da4cd1addda8f17bd5805c9f83872.js"
 );
 
 self.addEventListener('message', (event) => {
